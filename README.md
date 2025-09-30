@@ -21,9 +21,8 @@ This platform demonstrates a clear separation between the frontend (website serv
 
 ## 🎞️ Demo
 
-![Blog Demo](./demo.gif)
+![Blog Demo](./blogApi.gif)
 
-You can replace `./demo.gif` with your own GIF to showcase the blog platform in action.
 
 ---
 
@@ -42,3 +41,4 @@ You can replace `./demo.gif` with your own GIF to showcase the blog platform in 
 ```bash
 git clone https://github.com/yourusername/blog-platform.git
 cd blog-platform
+
