@@ -39,6 +39,7 @@ This platform demonstrates a clear separation between the frontend (website serv
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/blog-platform.git
+git clone https://github.com/pouriavj/blog-platform.git
 cd blog-platform
+
 
