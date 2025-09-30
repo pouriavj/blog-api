@@ -41,3 +41,19 @@ This platform demonstrates a clear separation between the frontend (website serv
 ```bash
 git clone https://github.com/pouriavj/blog-api.git
 cd blog-api
+```
+### 2. Install dependencies
+```bash
+npm install
+```
+### 3. Start the API backend
+Open a terminal and run:
+```bash
+node index.js
+```
+API available at http://localhost:4000.
+### 4. Start the API backend
+```bash
+node index.js
+```
+
