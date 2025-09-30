@@ -73,7 +73,16 @@ Website available at http://localhost:3000.
 
 - Designed to demonstrate **frontend-backend separation**  
 - Can be extended to use a **persistent database** (e.g., MongoDB)  
-- Ideal as a learning project for building RESTful APIs and dynamic websites  
+- Ideal as a learning project for building RESTful APIs and dynamic websites
+
+---
+
+## 🛠️ Built With
+
+- [Node.js](https://nodejs.org/) – JavaScript runtime for the backend  
+- [Express.js](https://expressjs.com/) – Web framework for API and website server  
+- [EJS](https://ejs.co/) – Templating engine for rendering frontend pages  
+- [HTML & CSS](https://developer.mozilla.org/en-US/docs/Web) – Basic structure and styling for the website  
 
 
 
