@@ -61,5 +61,19 @@ Website available at http://localhost:3000.
 
 ---
 
+## 🌐 How it works
+
+- The **website server** provides the user interface and pages for viewing, creating, and editing blog posts.  
+- The **API backend** provides endpoints for all data operations. The website communicates with the API to fetch, create, update, and delete posts.  
+- Posts are stored in memory on the API backend, so restarting the server will clear all data.  
+
+---
+
+## 🧩 Notes
+
+- Designed to demonstrate **frontend-backend separation**  
+- Can be extended to use a **persistent database** (e.g., MongoDB)  
+- Ideal as a learning project for building RESTful APIs and dynamic websites  
+
 
 
