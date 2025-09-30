@@ -1,4 +1,4 @@
-# 📖 Blog Platform
+# 📖 blog-api
 
 This project is a simple **blog platform** with two backends:  
 
@@ -39,7 +39,5 @@ This platform demonstrates a clear separation between the frontend (website serv
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/pouriavj/blog-platform.git
-cd blog-platform
-
-
+git clone https://github.com/pouriavj/blog-api.git
+cd blog-api
