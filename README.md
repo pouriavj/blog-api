@@ -52,8 +52,12 @@ Open a terminal and run:
 node index.js
 ```
 API available at http://localhost:4000.
-### 4. Start the API backend
+### 4. Start the Website server backend
+Open another terminal and run:
 ```bash
-node index.js
+node server.js
 ```
+Website available at http://localhost:3000.
+---
+
 
