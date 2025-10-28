@@ -1,5 +1,15 @@
 # 📖 blog-api
 
+![Node.js](https://img.shields.io/badge/Node.js-18-green?logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-4.18-black?logo=express)
+![EJS](https://img.shields.io/badge/EJS-3.1-red?logo=ejs)
+![Axios](https://img.shields.io/badge/Axios-1.5-blue?logo=axios)
+![ES6](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+
 This project is a simple **blog platform** with two backends:  
 
 - A **website server backend** running on `http://localhost:3000` that serves the user interface for the blog.  
@@ -83,6 +93,7 @@ Website available at http://localhost:3000.
 - [Express.js](https://expressjs.com/) – Web framework for API and website server  
 - [EJS](https://ejs.co/) – Templating engine for rendering frontend pages  
 - [HTML & CSS](https://developer.mozilla.org/en-US/docs/Web) – Basic structure and styling for the website  
+
 
 
 
